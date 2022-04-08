@@ -30,3 +30,6 @@ Vintage Year: 2021
 
 CoU's Available: 72,251
 _________________________________
+PRIOR HISTORY
+UNFCCC CDM Project 1259 : Enercon Wind Farm (Hindustan) Ltd in Karnataka
+Link: https://cdm.unfccc.int/Projects/DB/DNV-CUK1185356859.49/view
