@@ -2,6 +2,19 @@
 Enercon Wind Farm (Hindustan) Ltd in Karnataka
 The purpose of the project activity is to utilize renewable wind energy for generation of electricity. The project activity replaces anthropogenic emissions of greenhouse gases (GHG’s) into the atmosphere, which is estimated to be approximately 119,332 CoUs (119,332 tCO2eq) annually.
 
+Country: India
+
+District: Tumkur & Chitradurga
+
+Village: Dasudi, Nelenuru, Ganadu, Annenhalli, Siddapura, Chikkabyaledakere, Kanubehalli,
+Arasinagundi and Elladakere
+
+Tehsil: Chikkanayakanahalli, Gubbi and Hosadurga
+
+State: Karnataka
+
+Code: 577501
+__________
 The purpose of the project activity is to utilize renewable wind energy for generation of electricity.
 The project activity replaces anthropogenic emissions of greenhouse gases (GHG’s) into the
 atmosphere, which is 2,36,080 tCO2e for this monitoring period, by displacing the equivalent
