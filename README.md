@@ -41,9 +41,11 @@ commissioned in three phases between 29/09/2006 & 28/12/2006. 56 WEGs under phas
 commissioned on 29 Sep 2006, 9 WEGs under phase-II were commissioned on 26/10/2006 & 21
 WEGs under phase-III were commissioned on 28/12/2006.
 
-The time frame for this monitoring period is from 01/02/2022 to 31/12/2024. UCR Project ID or
-Date of Authorization: 106
-Start Date of Crediting Period: 27/10/2018
+The time frame for this monitoring period is from 01/02/2022 to 31/12/2024. 
+
+UCR Project ID : 106
+
+UCR Start Date of Crediting Period: 27/10/2018
 ______________
 UCR ISSUANCE HISTORY
 _____________
@@ -82,3 +84,49 @@ is no double counting
 
 UNFCCC CDM Project 1259 : Enercon Wind Farm (Hindustan) Ltd in Karnataka
 Link: https://cdm.unfccc.int/Projects/DB/DNV-CUK1185356859.49/view
+____________
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 1259, as well as Gold Standard (GS) with reference number 3664. The crediting
+period of this project under CDM & GS is 27/10/2008 to 26/10/2018. PP seeks verification under
+UCR from 01/02/2022onwards, i.e., crediting period for UCR starts from 01/02/2022. Hence, there
+is no double counting for said projects. 
+
+The details of CERs issued and GS CERs labelled is given
+below:
+CDM 1259
+Weblink: https://cdm.unfccc.int/Projects/DB/DNV-CUK1185356859.49/view
+
+Monitoring Period: Issued CERs
+_____________
+27/10/2008 - 30/11/2009:  114,191
+___________
+01/12/2009 - 31/08/2011 : 173,795
+__________
+01/09/2011 - 30/06/2012 : 77,277
+________
+01/07/2012 - 30/09/2012 : 45,359
+_________
+01/10/2012 - 31/10/2013:  115,627
+________
+01/11/2013 - 31/12/2014:  114,101
+__________
+01/01/2015 - 31/05/2016 : 120,230
+_________
+01/06/2016 - 30/06/2017:  105,751
+_________
+01/07/2017 - 26/10/2018:  132,219
+_________
+GS
+
+Weblink: platform.sustain-cert.com/public-project/685
+_______
+Monitoring Period: Issued GS CERs
+______________
+01/11/2013 to 31/12/2014 :114,101
+_______
+01/01/2015 - 31/05/2016:  120,230
+______
+01/06/2016 - 30/06/2017:  105,751
+_________
+01/07/2017 - 26/10/2018 : 132,219
+___________
