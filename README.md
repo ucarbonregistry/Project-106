@@ -69,13 +69,39 @@ Vintage Year: 2020
 
 CoU's Available: 74,224
 ____________________________
-Serial Number: 0001-183017-255267-UCR-CoU-IN-106-01012021-31122021
+Serial Number: 0001-170254-255267-UCR-CoU-IN-106-01012021-31122021
 
 Vintage Year: 2021
 
-CoU's Available: 72,251
+CoU's Available: 85,014
 _________________________________
+MP-02: 01/01/2022-31/12/2024
+
+QTY: 239699
+
+ISSUANCE DATE: 19/06/2025
+____________
+Serial Number: 0002-010807-092700-UCR-CoU-IN-106-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 81894
+_________
+Serial Number: 0002-092701-182629-UCR-CoU-IN-106-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 89929
+____________
+Serial Number: 0002-182630-250505-UCR-CoU-IN-106-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 67876
+________________
+
 PRIOR HISTORY
+_____________
 The project activity was registered under Clean Development Mechanism (CDM) project with
 registration number 1259, as well as Gold Standard (GS) with reference number 3664. The crediting
 period of this project under CDM & GS is 27/10/2008 to 26/10/2018. PP seeks verification under
