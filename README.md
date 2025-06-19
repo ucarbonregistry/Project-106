@@ -31,5 +31,11 @@ Vintage Year: 2021
 CoU's Available: 72,251
 _________________________________
 PRIOR HISTORY
+The project activity was registered under Clean Development Mechanism (CDM) project with
+registration number 1259, as well as Gold Standard (GS) with reference number 3664. The crediting
+period of this project under CDM & GS is 27/10/2008 to 26/10/2018. PP seeks verification under
+UCR from 27/10/2018 onwards, i.e., crediting period for UCR starts from 27/10/2018. Hence, there
+is no double counting
+
 UNFCCC CDM Project 1259 : Enercon Wind Farm (Hindustan) Ltd in Karnataka
 Link: https://cdm.unfccc.int/Projects/DB/DNV-CUK1185356859.49/view
